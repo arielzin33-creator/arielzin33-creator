@@ -1,0 +1,29 @@
+# Rewrites the list between the
+#   <!--START_SECTION:activity--> ... <!--END_SECTION:activity-->
+# markers in README.md with your latest public GitHub activity.
+#
+# Those two comment markers must stay in the README or the action no-ops.
+
+name: Update recent activity
+
+on:
+  schedule:
+    - cron: "*/60 * * * *"     # hourly; GitHub may delay scheduled runs
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update the activity section
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "chore: update recent activity"
+          MAX_LINES: 5
