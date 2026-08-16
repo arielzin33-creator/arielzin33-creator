@@ -41,52 +41,6 @@ accepting first-pass output.
 ---
 
 <details>
-  <summary>
-    <h2>
-      🎓 Resume
-    </h2>
-  </summary>
-
-<br/>
-
-  <details>
-    <summary><h4>🎓 Academics</h4></summary>
-
-  <span><img src="https://img.shields.io/badge/Bootcamp-Developers_Institute-1877F2?style=for-the-badge"></span>
-  <span><img src="https://img.shields.io/badge/M.Sc-Chemistry_(Weizmann)-7c5cff?style=for-the-badge"></span>
-  <span><img src="https://img.shields.io/badge/B.Sc-Chemistry_(Top_10%25)-22d3ee?style=for-the-badge"></span>
-
-  - **Full-Stack &amp; AI Development Bootcamp** — Developers Institute · 2026 (in progress)
-    - Intensive, project-based program covering Python, JavaScript/TypeScript, React,
-      Node.js/Express, PostgreSQL and agentic AI tooling (LangChain, LangGraph, MCP),
-      structured around weekly exercises and two hackathons. Capstone in progress.
-  - **Product Management Certification** — Technion · 2025
-  - **Executive Program for Senior Managers in Deep Tech Startups** — Tel Aviv University · 2025–2026
-  - **M.Sc. Chemistry** (Materials &amp; Interfaces) — Weizmann Institute of Science · 2012–2015
-  - **B.Sc. Chemistry** (Extended Track) — Tel Aviv University · 2009–2012 — Top 10%
-
-  </details>
-
-  <details>
-    <summary><h4>💼 Experience (prior to career transition)</h4></summary>
-
-  Prior to retraining as a developer, I spent over a decade in R&amp;D leadership
-  roles across materials science, medical devices and consumer-product companies.
-
-  - **Lead Scientist** at *Daika Ltd* | 2020 – 2024
-    - Directed an R&amp;D team of 10+ developing sustainable wood composite materials
-      and natural binder technologies; managed chemistry, process engineering and QC labs.
-  - **R&amp;D Senior Researcher &amp; Project Manager** at *Nobio Ltd* | 2018 – 2020
-    - Developed dental composite materials, synthesized nanoparticles, designed QC
-      methods and production processes.
-  - **R&amp;D Researcher &amp; Lab Manager** at *Luminera Ltd* | 2015 – 2018
-    - Formulated dermal filler materials and led analytical characterization programs.
-
-  </details>
-
-</details>
-
-<details>
   <summary><h4>🔗 Online Presence</h4></summary>
 
 <br/>
