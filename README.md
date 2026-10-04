@@ -4,7 +4,7 @@
 
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=arielzin33-creator&color=7c5cff&style=for-the-badge" alt="Profile Views" style="height:21px;">
-  Technical Project Manager · AI &nbsp;|&nbsp; Full-stack proficiency
+  Technical Project Manager · AI &nbsp;|&nbsp; 6+ yrs project management &amp; operations &nbsp;|&nbsp; Full-stack proficiency
   <a href="https://arielzin33-creator.github.io">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
   </a>
@@ -25,14 +25,15 @@
 
 ## 🙋 About Me
 
-I'm a technical project manager for AI and software products. For over a decade
-I led R&amp;D projects and cross-functional teams in deep-tech materials and
+I'm a technical project manager for AI and software products, with 6+ years of
+project management and operations. For over a decade I led R&amp;D projects and cross-functional teams in deep-tech materials and
 regulated medical products — taking work from concept validation through pilot
 to production, with the budget, roadmap and stakeholder alignment that came with
 it. I've since gone deliberately technical, so I can scope, plan and review
 software and AI work at specification level — not just track it.
 
-- 🧭 &nbsp;**10+ years** leading R&amp;D projects and teams of **10+**, from lab to industrial scale
+- 🧭 &nbsp;**6+ years** of project management &amp; operations — timelines, budgets, vendors, equipment
+- 🔬 &nbsp;**10+ years** leading R&amp;D projects and teams of **10+**, from lab to industrial scale
 - 📋 &nbsp;Spec-first delivery: **MRD / PRD**, architecture docs, stage gates, risk controls, QA sign-off
 - 🎓 &nbsp;**Product Management** certificate (Technion) · **Full-Stack &amp; AI Development Bootcamp**
 - 🤖 &nbsp;Hands-on with **LangChain, LangGraph and MCP**, and directing AI-assisted development
