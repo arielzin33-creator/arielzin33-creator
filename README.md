@@ -126,7 +126,7 @@ software and AI work at specification level — not just track it.
 - Built risk controls into the spec — deterministic calculations separate from
   LLM text, an allow-list of 12 data sources, hard-coded food-safety rules —
   then ran QA against the spec before sign-off.
-- **[Live demo](https://cirqhub.base44.app)** · **[Case study](https://arielzin33-creator.github.io/#project-1)**
+- **[Live demo](https://cirqhub.base44.app)** · **[PM case study repo](https://github.com/arielzin33-creator/cirqhub)** · **[Case study](https://arielzin33-creator.github.io/#project-1)**
 
 #### TrueTap
 
@@ -146,7 +146,7 @@ software and AI work at specification level — not just track it.
 - An interactive browser-based map overlaying real-world geography with
   mythological kingdoms, gods and creatures — a deliberately fixed scope,
   delivered complete.
-- **[Case study](https://arielzin33-creator.github.io/#project-3)**
+- **[PM case study repo](https://github.com/arielzin33-creator/mythic-atlas)** · **[Case study](https://arielzin33-creator.github.io/#project-3)**
 
 </details>
 
